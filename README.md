@@ -2,7 +2,7 @@
 Lambda_mainnet_setup_guide
 
 
-# Lambda node setup for mainnet — kaiyo-1
+# Lambda node setup for mainnet
 
 Official documentation:
 >- [Validator setup instructions](https://docs.lambda.im/validators/overview.html)
