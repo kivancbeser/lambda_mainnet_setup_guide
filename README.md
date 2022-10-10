@@ -325,7 +325,7 @@ lambdavm tx gov vote 1 yes --from $WALLET --chain-id=lambda_92000-1
 ### Staking, Delegation and Rewards
 Delegate stake
 ```
-lambdavm tx staking delegate $KUJIRA_VALOPER_ADDRESS 10000000ulamb --from=wallet --chain-id=lambda_92000-1 --gas=auto
+lambdavm tx staking delegate $LAMBDA_VALOPER_ADDRESS 10000000ulamb --from=wallet --chain-id=lambda_92000-1 --gas=auto
 ```
 
 Redelegate stake from validator to another validator
