@@ -11,19 +11,19 @@ Explorer:
 >-  https://explorer.nodestake.top/
 
 Staking: 
->-https://app.lambda.im/staking
+>-  https://app.lambda.im/staking
 
 🛡️Bridge:
->-https://app.lambda.im/crosschain/ethereum_bridge
+>-  https://app.lambda.im/crosschain/ethereum_bridge
 
 ## Hardware Requirements
 Like any Cosmos-SDK chain, the hardware requirements are pretty modest.
 
 ### Minimum Hardware Requirements
- >- -4 or more physical CPU cores
- >- -At least 500GB of SSD disk storage
- >- -At least 32GB of memory (RAM)
- >- -At least 100mbps network bandwidth
+ >- 4 or more physical CPU cores
+ >- At least 500GB of SSD disk storage
+ >- At least 32GB of memory (RAM)
+ >- At least 100mbps network bandwidth
 
 ## Set up your Lambda fullnode
 ### Manual Installation 
